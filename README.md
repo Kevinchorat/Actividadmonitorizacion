@@ -57,10 +57,14 @@ Monitorizar un equipo con zabbix, como necesitamos otra maquina y tienes instala
 
 ![18](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix17.png?raw=true)
 
+Vamos al servidor Zabbix y en configuración vamos al apartado de host y creamos un host con los datos de la otra maquina.
+
 ![19](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix18.png?raw=true)
 
 ![20](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix19.png?raw=true)
 
 ![21](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix20.png?raw=true)
+
+Y una vez hecho podemos ver los datos.
 
 ![22](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix21.png?raw=true)
