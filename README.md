@@ -21,6 +21,8 @@ Entramos al siguiente fichero para modificar.
 
 ![7](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix6.png?raw=true)
 
+Ejecutamos el siguiente comando para aplicar la base de datos.
+
 ![8](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix7.png?raw=true)
 
 ![9](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix8.png?raw=true)
