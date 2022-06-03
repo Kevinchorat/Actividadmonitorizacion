@@ -39,7 +39,11 @@ Ponemos la contraseña que indicamos en los anteriores pasos.
 
 ![12](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix11.png?raw=true)
 
+Ponemos de nombre Zabbix.
+
 ![13](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix12.png?raw=true)
+
+Y entramos con ADMIN y la contraseña.
 
 ![14](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix13.png?raw=true)
 
