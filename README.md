@@ -49,6 +49,8 @@ Y entramos con ADMIN y la contraseña.
 
 ![15](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix14.png?raw=true)
 
+Monitorizar un equipo con zabbix, como necesitamos otra maquina y tienes instalado ubuntu ejecutamos los siguientes comandos.
+
 ![16](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix15.png?raw=true)
 
 ![17](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix16.png?raw=true)
