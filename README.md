@@ -27,9 +27,15 @@ Ejecutamos el siguiente comando para aplicar la base de datos.
 
 ![9](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix8.png?raw=true)
 
+Vamos a localhost/zabbix.
+
 ![10](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix9.png?raw=true)
 
+Siguiente.
+
 ![11](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix10.png?raw=true)
+
+Ponemos la contraseña que indicamos en los anteriores pasos.
 
 ![12](https://github.com/Kevinchorat/Actividadmonitorizacion/blob/main/zabbix11.png?raw=true)
 
